@@ -59,16 +59,16 @@ global.ppulsa2 = '081336990781'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
-global.namebot = 'Kanna BOT'
-global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
+global.nomorbot = '6281287142545'
+global.nomorown = '6282171432358'
+global.namebot = 'MEGABOT'
+global.nameown = 'Alex'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285334930628'],
-  ['6285334930628'],
+  ['6282171432358'],
+  ['6281287142545'],
   ['18126338970'],
   ['6285334930628', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
   // [number, dia creator/owner?, dia developer?]
