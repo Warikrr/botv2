@@ -47,7 +47,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 global.sig = 'https://www.instagram.com/kontol_elite'
 global.sgh = 'https://github.com/Jikarinka'
 global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
-global.sdc = " "
+global.sdc = " p"
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
